@@ -1,0 +1,409 @@
+# 2021_Sportage_FCM_eng.pdf 텍스트 추출 결과
+
+## 페이지 1
+
+SportageKia maintains the same prices and sales conditions nationwide to safeguard customers' trust.
+• Colors depicted in photographs may differ from the actual colors due to printing limitations.
+• Navigation functions and information displayed may differ according to the time of the navigation system update.
+• Drive efficiently: 1. Do not accelerate or stop abruptly.  2. Use only genuine parts to optimize product performance and extend life expectancy.
+• Caution: Please read the car manual before initial use for safe driving.
+• Please recycle this booklet and protect the environment.
+• Customer center: 080-200-2000Discrepancies between the brochure and products sold may occur due to changes since the time of printing. 
+Specifications may change due to suppliers’ conditions. Photographs may depict optional features. 
+Please refer to the most recent monthly price list when purchasing a car and contact a sales representative. Publication date202109 /  0 1
+This PDF file is for reference only
+Discrepancies between the brochure and products
+sold may occur due to the time of printing. 
+Please refer to the most recent monthly price list 
+when purchasing a car and contact a sales master.
+
+## 페이지 2
+
+Steel Gray  Specifications may vary according to the trim, engine and options that are selected. Snow White PearlWe will move.
+What moves you now?
+Give a fresh start to your static life
+and turn your longing into an exciting beginning.
+Sportage will lead you to newness, adventure, and festivity.
+Relieve your curiosity.
+The joy of discovery awaits you.
+Discover your world
+The all-new Sportage  PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 3
+
+The Futuristic Move
+An open mind awakens new sensibilties_
+Don’t stay confined to your past.
+Create and design your life according to your will 
+with Sportage by your side.
+Gravity model / Jungle Wood Green  Specifications may vary according to the trim, engine and options that are selected.PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 4
+
+Shadow Matte Gray  Specifications may vary according to the trim, engine and options that are selected.Sportage embodies Kia’s new design philosophy, Opposites United, which is a creative fusion
+of contradictory concepts. Sportage’s simple yet dynamic design conveys a powerful presence
+created by the combination of nature's boldness with modern sensibility.The all-new Sportage PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 5
+
+Shadow Matte Gray  Specifications may vary according to the trim, engine and options that are selected.A 3-dimensional sense of volume and dynamic lines create synergy.
+A large, tiger-nose radiator grille with a black high-tech pattern and sleek LED headlamps
+project a futuristic look, while a sporty yet majestic body silhouette
+conveys a seductive sense of balance and dynamism.PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 6
+
+Gravity model / Jungle Wood Green  Specifications may vary according to the trim, engine and options that are selected.Distinctive details such as a voluminous radiator grille,
+bold front and rear bumpers, black glossy surround molding,
+and pillar garnishes reinforce the vehicle’s powerful and dynamic image.01. Radiator grille, grille upper garnish, front bumper, LED fog lamps
+02. Door garnish, 19” full finish wheel
+03. Rear bumper
+04. Roof rack, surround molding, pillar garnish, outside mirror cover01
+02 03
+04The all-new Sportage GRAVITYPDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 7
+
+A curved, panoramic display conveys information more 
+easily and conveniently. State-of-the-art specifications such 
+as a touch-type control system, that can switch between 
+the infotainment system and air conditioning functions, 
+and a dial-type electronic transmission offer an innovative 
+automotive experience.
+ * Panoramic curved display : A high-tech display that connects a 12.3" cluster and 
+   a 12.3" navigation screen with a smooth curved surface.
+Navy Gray interior  Specifications may vary according to the trim, engine and options that are selected.PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 8
+
+Navy Gray interior  Specifications may vary according to the trim, engine and options that are selected.Suede leather seats with a quilted pattern and 
+a woodgrain interior that is beautifully lit 
+with ambient light convey the elegant 
+sensibility of a premium space.PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 9
+
+A full-size color TFT LCD screen conveys diverse vehicle information 
+with outstanding visibility. It uses differentiated graphics for each 
+driving mode and changes the cluster screen to match the weather 
+for additional pleasure while driving.
+※ Weather-related functions require a Kia Connect subscription.Supervision cluster (12.3” full-size color TFT LCD)
+Condensation that forms while using the air conditioner is dried to prevent unpleasant odors.
+※ Applicable to the gasoline and diesel models After blow
+Specifications may vary according to the trim, engine and options that are selected.A 12.3”-wide display allows the driver to see navigation maps and other vehicle information easily at once while giving access to Kia Connect
+and its state-of-the-art connected car services, including remote control and safety & security functions. Widgets and a split-screen display
+make the system even easier to operate.
+※ Complimentary 5-year basic subscription to Kia Connect and 5-year extension to "light" service (SOS emergency dispatch, automatic notification of airbag deployment, 
+monthly reports, traffic information).
+Kia Pay is a hassle-free payment system that can be used to make 
+payments, such as gas and parking fees, to affiliated merchants 
+with a card registered in the Kia Pay app and a few taps 
+of the navigation screen.
+※ The list of merchants is continuously expanding. For an updated list, please
+consult the navigation system or the Kia Pay app.12.3” navigation
+Kia PayA high-tech operation system integrates key infotainment and air conditioning functions into a single controller to simplify operation. 
+A button in the center of the operation panel switches between the two systems, and all buttons other than those for functions 
+that require intuitive operation, such as volume and temperature, are touch-based, similar to the latest innovative electronic devices.Infotainment / climate control system
+A dial-type electronic controller with fine details offers a comfortable grip
+and conveys a sense of luxury.Dial-type Shift-by-Wire PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 10
+
+Gravity model / Jungle Wood Green  Specifications may vary according to the trim, engine and options that are selected. Navy Gray interiorA versatile interior designed to fit any urban or outdoor setting offers new experiences.
+Thoughtful, meticulously designed functions fill the interior, taking relaxation to a higher level.PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 11
+
+USB-C ports in the seatback of front row seats improve compatibility 
+with the latest devices and allow rear-seat passengers to conveniently 
+charge their devices.1st row seatback USB-C chargers (for charging)
+Hanger-type headrests make it easy to hang a coat while mini pockets 
+conveniently store diverse accessories.Hanger-type headrest / Seatback mini pockets
+Smartphones with wireless charging capabilities can be conveniently 
+charged by simply placing them on the charging pad, eliminating the 
+need for a cable. 
+※ A separate charging pad or phone case may be required depending on the smartphone
+model. It may not be compatible with models that do not support the use of adaptors.Center console & Large-capacity cup holders
+Wireless smartphone charging system
+Specifications may vary according to the trim, engine and options that are selected.  / *A virtual image has been used to help viewers' understanding.
+The height of the opened tailgate can be set according to 
+users' height or loading needs.Smart power tailgate system*
+Indoor air quality is monitored in real-time and automatically purified 
+with a high-performance air conditioning filter as needed.Smart Air Purification system (with micro dust sensor)*
+A remote folding system on the tailgate conveniently folds
+the 2nd row seats, making it easy to load and store cargo.Unlike regular seats, fold-and-dive seats in the 2nd row sink when folded,
+providing a bigger cargo space behind the front row.
+※ Applicable to the gasoline and diesel models2nd row one touch folding 2nd row fold-and-dive seats
+PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 12
+
+Vesta Blue  Specifications may vary according to the trim, engine and options that are selected.180 27.0 12.5
+Max. power
+(ps/5,500 rpm)Max. torque 
+(kgf·m/1,500~4,500 rpm)Combined fuel economy
+(km/ℓ )
+※ Based on 2WD, 17" tiresSmartstream G1.6 T-GDIThe Impressive Move
+Creating a festival out of an ordinary day is an art of life_
+Break away out of daily routines from time to time and pursue little challenges.
+Sportage’s differentiated driving experience will help you push life’s boundaries.
+A new platform and next-generation powertrain create a ride quality that is a notch above
+while delivering fuel efficiency and a powerful driving sensibility.
+186 42.5 14.6
+Max. power
+(ps/4,000 rpm)Max. torque 
+(kgf·m/2,000~2,750 rpm)Combined fuel economy
+(km/ℓ )
+※ Based on 2WD, 17" tiresSmartstream D2.0PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 13
+
+An integrated drive mode control system, electronic 4WD system, and terrain mode
+(including auto mode) optimize on- and off-road driving performance.
+Steel Gray  Specifications may vary according to the trim, engine and options that are selected.  / *A virtual image has been used to help viewers' understanding.Traction, engine torque, and braking are controlled according to the terrain such as snow, dirt, or sand 
+to optimize the driving experience. When Auto is selected, terrain mode will automatically choose between 
+On-road, Snow, Mud, or Sand and deliver a stable drive.
+※ On-road will be set to the drive mode (Eco, Normal, Sport, Smart) that was most recently selected. 
+※ Applicable to the diesel 4WD modelTerrain mode (Auto, Snow, Mud, Sand)* Drive mode integrated control system*
+Drivers can customize their driving experience to 
+suit their preferences by choosing between Eco, 
+Normal, Sport, and Smart modes.
+※ The Hybrid model offers Eco, Sport, and Smart modes.Electronic 4WD system
+Power is actively distributed between the front and rear wheels 
+depending on the road surface and driving conditions to ensure 
+stable turning and outstanding driving performance.
+※ Applicable to the gasoline and diesel models
+Shadow Matte Gray
+SMARTECO
+SPORT
+NORMALAUTO
+SNOW
+MUD
+SANDPDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 14
+
+Specifications may vary according to the trim, engine and options that are selected.Alerts the driver when the risk of a forward collision is detected such as sudden braking by the car in front, a parked car, or an unexpected 
+pedestrian. Automatically helps to apply the brakes if the risk of a collision increases even after sounding an alarm and when there is a risk of 
+colliding with a cyclist in front, an oncoming vehicle on an opposite lane while making a left turn, or a vehicle approaching from the left or 
+right while crossing an intersection.Forward Collision-avoidance Assist (vehicles/pedestrians/cyclists/crossing vehicles)
+Helps to prevent speeding by alerting the driver if the speed limit has 
+been exceeded based on information from the front view camera and 
+navigation system.Intelligent Speed Limit AssistAlerts the driver when the turn signal is activated to make a lane change 
+and there is a risk of colliding with a vehicle in the back in an adjacent 
+lane. Applies the brakes automatically if the risk of colliding increases 
+after sounding an alarm to prevent an accident. Also helps to brake the 
+car if a vehicle is approaching from the back in an adjacent lane while 
+steering onto the road after parallel parking.Blind-spot Collision-avoidance Assist
+Alerts the driver if the car drifts out of the lane without a turn signal 
+when driving above a given speed and helps to steer it back into place.Lane Keeping Assist
+Takes into consideration road conditions and helps to maintain a safe speed while driving on expressways and highways.
+Reduces speed before entering safety zones and resumes acceleration to preset levels thereafter. Similarly, reduces speed 
+to safe levels before entering curved segments of a road and resumes acceleration to preset levels thereafter.
+Helps to drive at a preset speed or safe speed while driving on an expressway or highway. Helps to maintain 
+a safe distance from the car in front and the center of the lane.Highway Driving AssistNavigation-based Smart Cruise Control (for safety zones and curved segments on expressways and highways)Hassle Free, Delightful Driving
+Peace of mind for a more enjoyable and pleasant drive
+Kia's brand name for ADAS technology that proactively analyzes driving 
+conditions and assists drivers to provide the highest level of safety 
+to drivers, passengers, pedestrians, and drivers of other vehicles alike.
+※ ADAS : Advanced Driver Assistance System
+Alerts the driver if a car is approaching from the left or right while pulling 
+out in reverse and helps to brake automatically if the risk of collision 
+increases even after sounding an alarm.Rear Cross-traffic Collision-avoidance AssistPDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 15
+
+Alerts the driver if there is a risk of colliding with a pedestrian or object 
+in the back while pulling out in reverse. Helps to brake the car 
+automatically if the risk of colliding increases even after sounding the 
+alarm.Reverse Parking Collision-avoidance Assist
+Specifications may vary according to the trim, engine and options that are selected.Helps to park or pull out the car remotely from the outside by moving it forward or backward.
+※ Works when the driver is within 4 m of the vehicle. The car can be moved up to 7 m at a time (maximum is twice or 14 m total)
+※ Applicable to the diesel and hybrid modelsRemote Smart Parking Assist
+Enables the driver to check the location and see the surroundings 
+of the vehicle remotely, even from far away, using the Kia Connect app 
+on a smartphone.Remote 360-degree view (surround view)
+Displays the surroundings of the vehicle to assist in safe parking. Surround View Monitor
+Sounds an alarm if an occupant opens a door and tries to exit the vehicle 
+while a car is approaching from the back in an adjacent lane.Safe Exit Assist
+Displays a rear, lateral view of the turning side on the cluster
+when the turn signal is activated.Blind-spot View Monitor
+Determines the presence of rear-seat passengers based on the opening 
+and closing of rear doors and sensors inside the cabin. Prompts the 
+driver to check the rear seat by displaying a message on the cluster, 
+sounding an alarm, and sending a text message through Kia Connect.Rear Occupant Alert
+PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 16
+
+The Inspired Move
+Inspiration from tranquil moments are a driving force of daily life_
+Emptying one’s mind often arouses unexpected ideas.
+Find energy to fuel your day in the serenity of Hybrid.
+Vesta Blue  Specifications may vary according to the trim, engine and options that are selected.The all-new Sportage HEVPDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 17
+
+Specifications may vary according to the trim, engine and options that are selected.Exclusive hybrid contents
+ Exclusive hybrid emblem
+17” full finish wheel 18” full finish wheel 44.2
+Max. power 
+electric motor
+(kW)180
+Max. power
+gasoline engine
+(ps/5,500 rpm)27.0
+Max. torque
+gasoline engine
+(kgf·m/1,500~4,500 rpm)264
+Max. torque
+electric motor
+(Nm)16.7
+Combined fuel economy
+(km/ℓ )
+※ Based on 2WD
+without a built-in camSmartstream G1.6 turbo hybrid
+The electric motor generates an inertial force in the opposite direction of the vehicle when 
+passing over bumps, such as speed bumps, to reduce strain and provide a more comfortable ride.
+※ Operates while driving straight at speeds between 20 to 75 km/h ※ Does not operate with sudden braking or 
+acceleration, on sloped or slippery roads, and while using snow chains or towing a trailer.
+The electric motor generates a proper amount of braking/driving torque that is needed to 
+improve steering response and stability while turning.E-Ride
+E-HandlingPDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 18
+
+Standard gear knob
+LED headlampProjection LED headlamp
+18” full finish wheel
+ 17” full finish wheelWheels for 1.6 turbo hybrid
+LED foglampRegular rear combination lampPremium LED rear combination lamp Rear hidden wiper
+LED repeater integrated outside mirror Paddle shiftIntegrated Memory System
+Metal doorscuff
+Metal pedal
+Kia digital key
+Supervision cluster  (4.2” color TFT LCD)12.3" navigation (applicable with the 4.2” supervision cluster)
+8" display audio
+Compact audioFront-row seat ventilation system and 
+seat warmer / rear seat warmer*
+Built-in cam  (with spare battery)
+Independently controlled full auto 
+air conditioning systemInfotainment/climate control system 
+(includes the independently controlled full auto air conditioning system)
+Manual air conditioning systemKRELL premium sound
+Seat Work-In System*Features
+Specifications may vary according to the trim, engine and options that are selected.  / *A virtual image has been used to help viewers' understanding.
+19” full finish wheel
+Gravity model onlyWheels for 1.6 gasoline turbo and 2.0 diesel
+18" alloy wheel
+ 19” full finish wheel
+ 17” full finish wheelPDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 19
+
+Quilted leather / Suede Leather Synthetic leather Black interior
+Metal paint
+garnishPremium metallic 
+garnishWoodgrain
+garnish
+Kia Connect is Kia's connected car service 
+for wireless navigation updates, smartphone-based 
+remote vehicle control, and emergency alerts for a safer and 
+more convenient vehicle usage experience.Maintenance
+Vehicle maintenance services such 
+as breakdown diagnosis, driving 
+information, and wireless updates.Optimal route guidance using
+real-time traffic information.Navigation Remote control
+Cool or heat the interior of the 
+car remotely in advance using a 
+smart phone.Safety and security
+Emergency assistance through the 
+Kia Connect center in the event of 
+an airbag deployment or roadside 
+emergency (24/7, 365 days).
+※ Kia Connect is the new name for UVO, Kia’s connected car service.  ※ Complimentary 5-year basic service and additional 5-year light service (SOS emergency dispatch, automatic notification of airbag deployment, monthly reports, traffic information).
+※ For more information, visit Kia Connect's customer service center in Kakao Talk (search for "기아커넥트" through the search window and befriend).
+Snow White Pearl
+(SWP)Steel Gray
+(KLG)Downing Red
+(DWR) Jungle Wood Green
+(JUG)
+Leather Synthetic leather Brown interiorGravity model only
+Fusion Black
+(FSB) Vesta Blue
+(BB2)Gravity Gray
+(KDG)Shadow Matte Gray 
+(MGG)Standard model onlyColors
+Specifications may vary according to the trim, engine and options that are selected.  
+Navy Gray interior Quilted leather / Suede Leather Synthetic leather
+Premium metallic 
+garnish
+Premium metallic 
+garnishWoodgrain
+garnish
+Woodgrain
+garnishPDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
+## 페이지 20
+
+Luggage screenTailgate lamp
+License plate lamp
+ Sun visor lamp
+Luggage net Side step Built-in air purifierFrom an LED lighting package to a built-in air purifier
+and camping/car camping items,
+a more relaxed and convenient Sportage Life awaits you.
+Luggage package Individual optionsMulti-curtain (windshield/1st row/2nd row)
+※ Camping / car camping products can be purchased using Kia Members points through the Car & Life Mall (kia.auton.kr). 
+※ Product details and specific descriptions can be found in the Car & Life Mall. Camping chair and table can be purchased separately.Door spot lamp
+Air mat
+Camping chair and table Camping equipment storage bagLED lighting package Camping / Car Camping Equipment
+ModelDisplacement
+(cc)Curb weight
+(kg)Transmission ClassCombined CO 2 emissions 
+(g/km)City fuel economy 
+(km/ℓ)Highway fuel economy 
+(km/ℓ)Combined fuel economy 
+(km/ℓ)
+1.6 gasoline 
+turbo  2WD17" tires 1,598 1,525 7-speed DCT 3 133 11.5 13.8 12.5
+18" tires 1,598 1,555 7-speed DCT 3 136 11.3 13.6 12.3
+18" tires (built-in cam) 1,598 1,555 7-speed DCT 3 138 11.0 13.6 12.1
+19" tires 1,598 1,545 7-speed DCT 3 139 11.0 13.3 12.0
+19" tires (built-in cam) 1,598 1,545 7-speed DCT 3 142 10.9 13.0 11.8
+4WD17" tires 1,598 1,585 7-speed DCT 3 145 10.7 12.9 11.6
+18" tires 1,598 1,615 7-speed DCT 4 149 10.4 12.5 11.3
+18" tires (built-in cam) 1,598 1,615 7-speed DCT 4 151 10.3 12.1 11.1
+19" tires 1,598 1,605 7-speed DCT 4 152 10.1 12.5 11.1
+19" tires (built-in cam) 1,598 1,605 7-speed DCT 4 156 9.8 12.2 10.8
+2.0 diesel  2WD17" tires 1,998 1,615 8-speed AT 2 130 13.4 16.2 14.6
+18" tires 1,998 1,645 8-speed AT 2 136 12.5 16.2 14.0
+18" tires (built-in cam) 1,998 1,645 8-speed AT 2 137 12.5 16.0 13.9
+19" tires 1,998 1,635 8-speed AT 2 135 12.7 16.2 14.1
+19" tires (built-in cam) 1,998 1,635 8-speed AT 2 137 12.5 15.9 13.9
+4WD17" tires 1,998 1,685 8-speed AT 3 146 11.9 14.7 13.1
+18" tires 1,998 1,715 8-speed AT 3 150 11.7 14.3 12.8
+18" tires (built-in cam) 1,998 1,715 8-speed AT 3 151 11.6 14.2 12.7
+19" tires 1,998 1,705 8-speed AT 3 149 11.9 14.3 12.9
+19" tires (built-in cam) 1,998 1,705 8-speed AT 3 152 11.5 14.1 12.6
+1.6 turbo 
+hybrid2WD17"/18" tires 1,598 1,625 6-speed AT 1 96 17.4 15.9 16.7
+17"/18" tires (built-in cam) 1,598 1,625 6-speed AT 1 99 16.6 15.8 16.3Specifications
+※ Fuel economy figures are for normal driving mode. Actual figures may vary according to driving habits, vehicle load and maintenance, road conditions and outside temperature.※ Units: mm
+※ Wheel tread: Based on 18"/19" tires
+※ (   ) is for the standard model including the roof rack
+※ Wheel tread: Corresponds to 17"/18"/19" tires respectively  ※ Overall height: ( ) is for ① the standard model roof rack and ② the Gravity model roof rackSpecifications SPORTAGE Specifications 1.6 gasoline turbo 2.0 diesel 1.6 turbo hybrid
+Overall length (mm) 4,660 Displacement (cc) 1,598 1,998 1,598
+Overall width (mm) 1,865 Max. power (ps/rpm) 180 / 5,500 186 / 4,000 180 / 5,500Electric 
+motor 44.2 kW
+Overall height (mm) 1,660 (①1,665 ②1,680) Max. torque (kgf·m/rpm) 27.0 / 1,500~4,500 42.5 / 2,000 ~ 2,750 27.0 / 1,500~4,500 264 Nm
+Wheelbase (mm) 2,755 Max. torque Front/Rear Ventilated disc / Disc
+Wheel tread Front/Rear (mm) Front: 1,620 / 1,615 / 1,615    Rear: 1,627 / 1,622 / 1,622 Suspension Front/Rear MacPherson strut / Multi-link 
+Specifications may vary according to the trim, engine and options that are selected.  
+1,622
+1,865
+1,615
+1,8652,755
+4,660
+1,660
+(1,665)PDF  REFERENCE  _ Sep 1, 2021. PDF  REFERENCE  _ Sep 1, 2021.
+
