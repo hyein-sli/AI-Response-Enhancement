@@ -9,10 +9,10 @@ import json
 import time
 
 # 엑셀 파일 경로
-excel_path = "C:/Users/혜민/Documents/code/kia/AI-Response-Enhancement/kia_com.xlsx"
+excel_path = r"C:\Users\leehyein\Documents\code\kia\AI-Response-Enhancement\worldwide_kia.xlsx"
 
 # JSON 출력 파일 경로
-output_path = "kia_crawled_data.json"
+output_path = "kia_crawled_data2.json"
 
 # 크롬 옵션 설정
 chrome_options = Options()
@@ -31,7 +31,7 @@ today_str = datetime.today().strftime("%Y-%m-%d")
 # 엑셀에서 URL 읽기
 wb = load_workbook(excel_path)
 ws = wb.active
-urls = [cell.value for cell in ws['B'] if cell.value and str(cell.value).startswith('http')]
+urls = [cell.value for cell in ws['A'] if cell.value and str(cell.value).startswith('http')]
 
 data = []
 success_urls = []
