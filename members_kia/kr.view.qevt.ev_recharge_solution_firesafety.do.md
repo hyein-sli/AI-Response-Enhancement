@@ -1,0 +1,70 @@
+전기차 화재 안심 프로그램 - 기아 e-라이프 패키지 | 기아멤버스
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+[본문 바로가기](#content)
+[주메뉴 바로가기](#gnb)
+
+### 전기차 화재 안심 프로그램
+
+* [멤버스 프로그램](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+
+기아 e-라이프 패키지
+
+EV 구매/운행/매각 전 과정에서 필요한 솔루션을 확인해보세요.
+
+* 구매 전
+
+  EV 정보습득
+  :   + [이달의 구매 혜택 >선택됨](https://www.kia.com/kr/buy/special-offers "새창열림")
+      + [EV 총소유비용 계산기 >선택됨](https://www.kia.com/kr/vehicles/kia-ev/charging/ev-tco-calculator "새창열림")
+* 구매 후
+
+  주행 전
+  :   + [홈충전기 구매 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+      + [공동주택 충전기 구축 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_consulting.do)
+      + [비상용 완속 충전케이블 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_chargingcable.do)
+* 주행 중
+  :   + [충전 로밍 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_roaming.do)
+      + [기아 그린패스 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_subscription.do)
+      + [E-pit 초고속 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_epit.do)
+* 긴급 상황
+  :   + [EV안심출동 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_scramble.do)
+      + [온디맨드 픽업 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_ondemand.do)
+      + [전기차 화재 안심 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_firesafety.do)
+* 유지보수/매각
+
+  유지보수/매각
+  :   + [카케어 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do "새창 열림")
+      + [기아 EV 안심점검 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_inspection.do)
+      + [중고차 가격 보장 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_guarantee.do)
+      + [인증중고차 트레이드인 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_tradein.do)
+
+보상지원
+
+전기차 화재 안심 프로그램
+
+기아 EV 고객님이 안심하고 전기차를 운행할 수 있도록, EV 화재로 인한 타인의 재산 피해에 대해 최대 100억원까지 지원합니다.
+
+전기차 화재 안심 프로그램 항목으로 대상, 지급 항목 및 절차
+
+
+
+
+|  |  |
+| --- | --- |
+| 대상 | 출고 후 10년 이내 기아 EV 화재로 타인의 재산 피해가 발생한 경우  기아 EV 주행거리 무관, 영업용/화물 포함  단독사고 및 사기, 개조, 음주, 약물복용, 무면허 등 제외 |
+| 지급 항목  및 절차 | **손해 발생 비용에 대해 최대 100억원 까지 지원**  지급 항목 및 절차   * 기아 EV 화재 발생  화재 사고 접수 * ① 제3자 생활안정 비용 긴급지원  임시주거, 렌트비 등 최대 10억 원   ※ 가구당 20만원/日   (최대 30일) * 사고 조사 및 피해 확인 * ② 차주 손해 지원  발화 차주가 손해 방지 및 피해경감을 위해 지출한 비용   ※ 소송/변호사/조정 비용 등 * 고객의 법률상 손해배상 책임 확정  ③ 제3자 재물손해 지원  차량(수리비/대차료 등), 건물(복구/영업손실비 등)   ※ 과실비율에 해당하는 금액 지급 |

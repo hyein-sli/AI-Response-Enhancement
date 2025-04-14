@@ -1,0 +1,103 @@
+기아 그린패스(구독형 충전 요금제) - 기아 e-라이프 패키지 | 기아멤버스
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+[본문 바로가기](#content)
+[주메뉴 바로가기](#gnb)
+
+### 기아 그린패스(구독형 충전 요금제)
+
+* [멤버스 프로그램](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+
+기아 e-라이프 패키지
+
+EV 구매/운행/매각 전 과정에서 필요한 솔루션을 확인해보세요.
+
+* 구매 전
+
+  EV 정보습득
+  :   + [이달의 구매 혜택 >선택됨](https://www.kia.com/kr/buy/special-offers "새창열림")
+      + [EV 총소유비용 계산기 >선택됨](https://www.kia.com/kr/vehicles/kia-ev/charging/ev-tco-calculator "새창열림")
+* 구매 후
+
+  주행 전
+  :   + [홈충전기 구매 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+      + [공동주택 충전기 구축 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_consulting.do)
+      + [비상용 완속 충전케이블 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_chargingcable.do)
+* 주행 중
+  :   + [충전 로밍 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_roaming.do)
+      + [기아 그린패스 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_subscription.do)
+      + [E-pit 초고속 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_epit.do)
+* 긴급 상황
+  :   + [EV안심출동 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_scramble.do)
+      + [온디맨드 픽업 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_ondemand.do)
+      + [전기차 화재 안심 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_firesafety.do)
+* 유지보수/매각
+
+  유지보수/매각
+  :   + [카케어 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do "새창 열림")
+      + [기아 EV 안심점검 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_inspection.do)
+      + [중고차 가격 보장 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_guarantee.do)
+      + [인증중고차 트레이드인 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_tradein.do)
+
+요금할인
+
+기아 그린패스(구독형 충전 요금제)
+
+월 정액 멤버십 구독 시, SK일렉링크 급속 충전 요금을 일정금액 할인 받을 수 있습니다.
+
+**구독형 충전요금제 란?**
+
+요금제 별 월 최대 약정량만큼 충전요금을 할인 받을 수 있습니다.
+
+* 그린+ : 월 2,000km 이상 장거리 운행에 적합한 요금제
+* 라이트 : 출퇴근, 주말 나들이 등 중장거리 운행에 적합한 요금제
+
+구독형 충전 요금제 제공항목으로 요금제명, 월 정액 구독료, 월 최대 약정량, 대상 충전소 및 할인액
+
+
+
+
+
+
+| 요금제명 | 월 정액 구독료 | 월 최대 약정량 | 대상 충전소 및 할인액 |
+| --- | --- | --- | --- |
+| 그린+ | 20,000원 | 1,400kWh | SK일렉링크 급속충전소   135원/kWh (약 30%) 할인 적용 |
+| 라이트 | 10,000원 | 400kWh |
+
+월 최대 할인혜택 [‘25.3.18 기준]
+
+그린+ : 169,000원 (= 1,400kWh x 135원 - 20,000원)
+
+라이트 : 44,000원 (= 400kWh x 135원 - 10,000원)
+
+**서비스 가입 프로세스**
+
+서비스 가입 프로세스
+
+* ① Kia App 로그인 후 하단 ‘마이카’ > ‘충전’ 선택
+* ② ‘충전 로밍’ 선택
+* ③ ‘기아 그린패스’ 가입하기 선택
+
+월 최대 약정량을 초과하여 충전 시, 정상요금(회원가)이 적용 됩니다.
+
+월 정액 구독료는 신용카드 정기 결제만 가능하며, 충전 요금은 신용카드 및 기아멤버스 포인트 복합 결제 가능합니다.
+
+
+
+법인 고객은 가입 불가하며, 차량 고유번호 인증이 필요합니다. 법인 고객은 기아 e-라이프 패키지 Biz 이용 가능합니다.
+
+기아 그린패스 이용을 위해 충전 로밍 서비스 가입이 필요합니다.

@@ -1,0 +1,47 @@
+이벤트 후기 목록 | 이벤트 후기 | 기아멤버스
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+[본문 바로가기](#content)
+[주메뉴 바로가기](#gnb)
+
+### 이벤트 후기
+
+* [이벤트](https://members.kia.com/kr/view/qevt/qevt_event_list.do)
+* [이벤트 후기](https://members.kia.com/kr/view/qevt/wnr_anc/qevt_wnr_epilogue_list.do)
+
+**이벤트 후기 목록**
+
+번호, 제목, 등록일 정보 제공
+
+
+
+
+
+
+|  |  |  |
+| --- | --- | --- |
+| 6 | [기아레드멤버스와 함께하는 온 가족 글램핑, RED 펫 캠핑](javascript:goEvntEpilogueDetail('8350');) | 2019.11.14 |
+| 5 | [기아레드멤버스 X 기아타이거즈, 100만큼 응원해](javascript:goEvntEpilogueDetail('8342');) | 2019.09.04 |
+| 4 | [테마사진관 7월 알콩달콩 상큼커플](javascript:goEvntEpilogueDetail('8344');) | 2019.09.19 |
+| 3 | [Refresh Your Car, 카 리모델링 이벤트 시즌5](javascript:goEvntEpilogueDetail('8295');) | 2017.12.20 |
+| 2 | [기아레드멤버스와 함께하는 레드 픽처 컨테스트](javascript:goEvntEpilogueDetail('8282');) | 2017.12.11 |
+| 1 | [부모님을 위한 특별한 선물, 카리모델링 이벤트](javascript:goEvntEpilogueDetail('8230');) | 2017.12.20 |
+
+* **[1](javascript:void() "현재페이지")**
+
+전체
+제목
+내용
+구분

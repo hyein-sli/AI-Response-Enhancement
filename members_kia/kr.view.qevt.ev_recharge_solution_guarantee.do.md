@@ -1,0 +1,99 @@
+중고차 가격 보장 프로그램 - 기아 e-라이프 패키지 | 기아멤버스
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+[본문 바로가기](#content)
+[주메뉴 바로가기](#gnb)
+
+### 중고차 가격 보장 프로그램
+
+* [멤버스 프로그램](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+
+기아 e-라이프 패키지
+
+EV 구매/운행/매각 전 과정에서 필요한 솔루션을 확인해보세요.
+
+* 무상점검
+
+  EV 정보습득
+  :   + [이달의 구매 혜택 >선택됨](https://www.kia.com/kr/buy/special-offers "새창열림")
+      + [EV 총소유비용 계산기 >선택됨](https://www.kia.com/kr/vehicles/kia-ev/charging/ev-tco-calculator "새창열림")
+* 구매 후
+
+  주행 전
+  :   + [홈충전기 구매 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+      + [공동주택 충전기 구축 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_consulting.do)
+      + [비상용 완속 충전케이블 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_chargingcable.do)
+* 주행 중
+  :   + [충전 로밍 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_roaming.do)
+      + [기아 그린패스 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_subscription.do)
+      + [E-pit 초고속 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_epit.do)
+* 긴급 상황
+  :   + [EV안심출동 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_scramble.do)
+      + [온디맨드 픽업 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_ondemand.do)
+      + [전기차 화재 안심 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_firesafety.do)
+* 유지보수/매각
+
+  유지보수/매각
+  :   + [카케어 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do "새창 열림")
+      + [기아 EV 안심점검 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_inspection.do)
+      + [중고차 가격 보장 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_guarantee.do)
+      + [인증중고차 트레이드인 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_tradein.do)
+
+판매지원
+
+중고차 가격 보장 프로그램
+
+기아 EV 구매 후 3년 내 기아 신차 구매 시, 중고 EV 잔존가치를 보장합니다.
+
+서비스 주요 내용 정보제공 항목으로 대상, 적용 차종, 내용, 기간
+
+
+
+
+
+
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 차종 | **니로 EV, 니로 플러스, EV3, EV4, EV6, EV9** | | | |
+| 대상 | **순수 개인 고객 (사업자 등록이 있는 고객 제외)**  EV3/4 한정 개인사업자 포함 | | | |
+| 조건 | **기아 오토할부 이용 개인 고객 中 약정서 작성 고객**  기아 신차 재구매 시 보장 (단, EV3/4는 기아 EV 신차 재구매 한정) | | | |
+| 내용 | 구분 | 1년 ↓ | 2년 ↓ | 3년 ↓ |
+| 보장률 | 2년 내 이전 불가 | | 최대 60% |
+
+전기차 보조금 수혜 시 의무 보유 기간 : 2년
+
+기준가격 : 세금계산서 상 부가세 포함 차량가격 (탁송비 제외)
+
+보장률 : 전기차 보조금 반영 전 차량 판매가 기준
+
+**신청 프로세스**
+
+신청 프로세스
+
+* 가입
+  :   EV 차량 구입 및 서비스 약정서 작성
+* 차량 이용 (2년 이상 3년 미만)
+* 서비스 이용신청
+  :   기아 신차 계약(동일 명의)
+* 평가금액 확인 및 매각 결정
+* 신차 인수 시 고객계좌로 송금
+  :   신차 출고
+
+상기 프로그램의 세부조건은 서비스 정책 변경 등에 따라 달라질 수 있습니다.
+
+자세한 내용은 가까운 기아 지점/대리점에 문의 바랍니다.

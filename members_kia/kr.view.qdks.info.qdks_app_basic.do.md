@@ -1,0 +1,50 @@
+Kia Digital Key App 기본 기능 - App 사용방법 안내 | Kia Digital Key 소개 | 기아멤버스
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+[본문 바로가기](#content)
+[주메뉴 바로가기](#gnb)
+
+### App 사용방법 안내
+
+* [Kia Digital Key](https://members.kia.com/kr/view/qdks/info/qdks_kdk_service_intro.do)
+* [App 사용방법 안내](https://members.kia.com/kr/view/qdks/info/qdks_app_basic.do)
+
+|  |  |  |
+| --- | --- | --- |
+| [기본 기능선택됨](/kr/view/qdks/info/qdks_app_basic.do) | [부가 기능](/kr/view/qdks/info/qdks_app_add.do) | [공유 기능](/kr/view/qdks/info/qdks_app_share.do) |
+
+#### 
+
+**도어 락/언락**
+
+차량에 등록된 스마트 폰 키를 차량의 도어 핸들에 터치해주세요.  
+도어 핸들에 장착된 NFC 안테나를 통해 해당 사용자가 차량에 접근할 권한이 있는지
+검증하여 정상 사용자의 경우 도어 잠금 / 잠금 해제를 수행할 수 있습니다.  
+스마트폰 디지털 키의 경우, 보안을 위해 스마트폰 화면을 잠금 해제 하신 후 NFC 인증
+기능을 사용할 수 있습니다.
+
+**엔진 시동(NFC)**
+
+차량 내 무선 충전 패드에 스마트폰 키를 올려 두고 시동 버튼을 누르면 무선 충전 패드에 탑재된 NFC안테나를 통한 검증 과정을 거쳐 차량에 시동이 걸립니다.
+
+**※ 참고하세요**
+
+* 스마트폰을 차에 두고 내리실 경우 차량 도난의 우려가 있으니, 스마트폰을 차에 두고 내리지 마십시오.
+
+**원격 제어(BLE)**
+
+BLE(Bluetooth Low Energy, 블루투스 저전력) 원격 제어를 통해 약 10m의
+거리에서 차량의 도어를 잠금 / 잠금 해제 하거나 비상 경보, 원격 시동 기능을 제어할 수 있습니다. 원격 제어는 공유 사용자를 포함해 최대 4명까지 동시 연결이 가능하며,
+다른 사용자가 원격 제어를 하는 중에는 동시 제어가 불가능합니다.

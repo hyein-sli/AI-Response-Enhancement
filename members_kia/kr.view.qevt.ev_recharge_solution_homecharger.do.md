@@ -1,0 +1,95 @@
+홈충전기 구매 지원 - 기아 e-라이프 패키지 | 기아멤버스
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+[본문 바로가기](#content)
+[주메뉴 바로가기](#gnb)
+
+### 홈충전기 구매 지원
+
+* [멤버스 프로그램](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+
+기아 e-라이프 패키지
+
+EV 구매/운행/매각 전 과정에서 필요한 솔루션을 확인해보세요.
+
+* 구매 전
+
+  EV 정보습득
+  :   + [이달의 구매 혜택 >선택됨](https://www.kia.com/kr/buy/special-offers "새창열림")
+      + [EV 총소유비용 계산기 >선택됨](https://www.kia.com/kr/vehicles/kia-ev/charging/ev-tco-calculator "새창열림")
+* 구매 후
+
+  주행 전
+  :   + [홈충전기 구매 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+      + [공동주택 충전기 구축 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_consulting.do)
+      + [비상용 완속 충전케이블 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_chargingcable.do)
+* 주행 중
+  :   + [충전 로밍 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_roaming.do)
+      + [기아 그린패스 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_subscription.do)
+      + [E-pit 초고속 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_epit.do)
+* 긴급 상황
+  :   + [EV안심출동 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_scramble.do)
+      + [온디맨드 픽업 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_ondemand.do)
+      + [전기차 화재 안심 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_firesafety.do)
+* 유지보수/매각
+
+  유지보수/매각
+  :   + [카케어 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do "새창 열림")
+      + [기아 EV 안심점검 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_inspection.do)
+      + [중고차 가격 보장 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_guarantee.do)
+      + [인증중고차 트레이드인 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_tradein.do)
+
+단독주택
+
+홈충전기 구매
+
+단독주택에 거주하는 기아 EV 고객을 대상으로 비공용 홈충전기 구매 및 설치를 지원합니다.
+
+**홈충전기 제원 및 설치비용**
+
+홈충전기 제원 및 설치비용 정보제공 - 파트너사, 현대엔지니어링
+
+
+
+
+
+|  | 파트너사 | 현대엔지니어링 |
+| --- | --- | --- |
+| 출력 | 7kW |
+| 기아 특별 제품가 | 40만원 |
+| 설치비 (선택사항) | 80만원 |
+| 고객 부담금 (설치비 포함) | 120만원 |
+
+**홈충전기 설치 프로세스**
+
+홈충전기 설치 프로세스
+
+* 하단 신청 배너 클릭
+  :   기아 EV 구매 후 충전기 설치 신청
+* 현장 실사 및 비용 결제 등 진행
+  :   설치 상담(유선 통화)
+* 충전기 설치공사 및 시운전 후 개통
+
+총 소요기간은 신청일로부터 약 5~6주이며, 현장여건에 따라 변동될 수 있습니다.
+
+상기 이미지의 충전기 모델은 변동될 수 있습니다.
+
+설치비는 가공 30m/지중5m 기준이며, 현장여건에 따라 변동 될 수 있습니다. (한전 불입금 발생시 고객 별도 부담)
+
+홈충전기 설치 관련 자세한 사항은 현대엔지니어링 고객센터(1833-8777)로 문의 바랍니다.
+
+[홈충전기 신청하기](javascript:fnGo(); "새창 열림")

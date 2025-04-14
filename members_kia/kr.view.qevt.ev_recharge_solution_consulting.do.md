@@ -1,0 +1,95 @@
+공동주택 충전기 구축 지원 - 기아 e-라이프 패키지 | 기아멤버스
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+[본문 바로가기](#content)
+[주메뉴 바로가기](#gnb)
+
+### 공동주택 충전기 구축 지원
+
+* [멤버스 프로그램](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+* [기아 e-라이프 패키지](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+
+기아 e-라이프 패키지
+
+EV 구매/운행/매각 전 과정에서 필요한 솔루션을 확인해보세요.
+
+* 구매 전
+
+  EV 정보습득
+  :   + [이달의 구매 혜택 >선택됨](https://www.kia.com/kr/buy/special-offers "새창열림")
+      + [EV 총소유비용 계산기 >선택됨](https://www.kia.com/kr/vehicles/kia-ev/charging/ev-tco-calculator "새창열림")
+* 구매 후
+
+  주행 전
+  :   + [홈충전기 구매 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_homecharger.do)
+      + [공동주택 충전기 구축 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_consulting.do)
+      + [비상용 완속 충전케이블 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_chargingcable.do)
+* 주행 중
+  :   + [충전 로밍 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_roaming.do)
+      + [기아 그린패스 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_subscription.do)
+      + [E-pit 초고속 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_epit.do)
+* 긴급 상황
+  :   + [EV안심출동 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_scramble.do)
+      + [온디맨드 픽업 충전 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_ondemand.do)
+      + [전기차 화재 안심 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_firesafety.do)
+* 유지보수/매각
+
+  유지보수/매각
+  :   + [카케어 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/qevt_event_carcare_index.do "새창 열림")
+      + [기아 EV 안심점검 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_inspection.do)
+      + [중고차 가격 보장 프로그램 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_guarantee.do)
+      + [인증중고차 트레이드인 >선택됨](https://members.kia.com/kr/view/qevt/ev_recharge_solution_tradein.do)
+
+공동주택
+
+공동주택 충전기 구축
+
+공동주택(아파트)에 거주하는 기아 EV 고객을 대상으로 공용 스마트제어 충전기 무상 설치를 위한 충전 컨설팅을 제공합니다.
+
+**스마트제어 충전기 제원 및 특징**
+
+스마트제어 충전기 제원 및 특징 정보제공 - 파트너사, 현대엔지니어링
+
+
+
+
+
+|  | 파트너사 | 현대엔지니어링 |
+| --- | --- | --- |
+| 출력 | 7kW |
+| 특징 | 충전기와 차량 간   통신으로  배터리 상태를  실시간  모니터링하고  충전속도를  최적화 함 |
+
+**스마트제어 충전기 설치 프로세스**
+
+스마트제어 충전기 설치 프로세스
+
+* 하단 신청 배너 클릭
+  :   기아 EV 구매 후 충전기 설치 신청
+* 현장 실사/입대위협의/계약체결 등 진행
+  :   설치 상담(유선 통화)
+* 계약기간 내 무상유지보수 포함
+  :   충전기 설치공사 및 시운전 후 개통
+
+총 소요기간은 신청일로부터 12~13주이며, 현장여건에 따라 변동될 수 있습니다.
+
+충전기 설치 가능여부 및 일정은 입대위 협의 내용, 환경부 보조금 현황 등에 따라 변동될 수 있습니다.
+
+상기 이미지의 충전기 모델은 변동될 수 있습니다.
+
+충전기 구축 및 운영 관련 세부 조건 등은 현대엔지니어링의 정책을 따르며, 자세한 사항은 현대엔지니어링 고객센터(1833-8777)로  
+ 문의 바랍니다.
+
+[공동주택 충전기 신청하기](javascript:window.open('https://www.hec.co.kr/ko/business/chargingService?companyCode=KIA', '', 'top=50,left=50,width=1000,height=800') "새창 열림")

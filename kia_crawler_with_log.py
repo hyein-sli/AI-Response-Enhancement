@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 from openpyxl import load_workbook
 
 # 📁 저장 폴더 (없으면 생성)
-md_folder = './원천데이터'
+md_folder = './members_kia'
 if not os.path.exists(md_folder):
     os.makedirs(md_folder)
 
@@ -33,7 +33,7 @@ chrome_options.add_argument("--headless")
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
 # 🔹 엑셀에서 URL 리스트 불러오기
-excel_path = r"C:\Users\혜민\Documents\code\kia\AI-Response-Enhancement/hyundea.story.xlsx"
+excel_path = r"C:\Users\혜민\Documents\code\kia\AI-Response-Enhancement/members.kia.xlsx"
 wb = load_workbook(excel_path)
 ws = wb.active
 urls = [cell.value for cell in ws['A'] if cell.value and str(cell.value).startswith("http")]
