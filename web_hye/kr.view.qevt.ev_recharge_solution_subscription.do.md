@@ -1,6 +1,8 @@
 # https://members.kia.com/kr/view/qevt/ev_recharge_solution_subscription.do
 
-## 기아 그린패스(구독형 충전 요금제)
+## 기아 e-라이프 패키지
+
+### 기아 그린패스(구독형 충전 요금제)
 
 요금할인
 월 정액 멤버십 구독 시, SK일렉링크 급속 충전 요금을 일정금액 할인 받을 수 있습니다.

@@ -1,6 +1,8 @@
 # https://members.kia.com/kr/view/qevt/ev_recharge_solution_epit.do
 
-## E-pit 초고속 충전
+## 기아 e-라이프 패키지
+
+### E-pit 초고속 충전
 
 현대차그룹의 E-pit 초고속 충전소에서 간편 충전(Plug&Charge)과 충전 요금 할인을 제공받을 수 있습니다.
 

@@ -1,8 +1,10 @@
 # https://members.kia.com/kr/view/qdks/info/qdks_kdk_service_example.do
 
-## 회원 유형 예시
+## Kia Digital Key 소개
 
-### 구매
+### 회원 유형 예시
+
+#### 구매
 
 김기아 : 일반개인
 -APP 설치

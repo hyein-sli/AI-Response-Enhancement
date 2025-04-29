@@ -1,6 +1,8 @@
 # https://members.kia.com/kr/view/qevt/ev_recharge_solution_tradein.do
 
-## 인증중고차 트레이드인
+## 기아 e-라이프 패키지
+
+### 인증중고차 트레이드인
 
 기아 인증중고차에 현재 보유 차량을 판매하고, 기아 신차 EV를 구매하는 고객님에게 혜택을 제공합니다.
 

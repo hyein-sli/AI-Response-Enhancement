@@ -1,8 +1,10 @@
 # https://members.kia.com/kr/view/qdks/info/qdks_support_vehicle.do
 
-## 차량 및 스마트폰 모델 안내
+## Kia Digital Key
 
-### 이용 가능 차량
+### 차량 및 스마트폰 모델 안내
+
+#### 이용 가능 차량
 
 Kia Digital Key 사양이 포함되어 있는 차량에 한해서만 Kia Digital Key (스마트폰 APP 및 NFC 카드키) 서비스를 이용할 수 있습니다.  
 향후 출시되는 신규 차종에 확대 적용될 예정입니다.
@@ -12,7 +14,8 @@ Kia Digital Key 사양이 포함되어 있는 차량에 한해서만 Kia Digital
 
 ※ 2022년 이후 디지털키 2 장착 출시 모델에서 디지털 키를 이용하려면 Kia Connect 앱을 이용해 주세요. 더 자세한 내용은 Kia Connect에서 확인해 주세요.
 
-### 스마트폰 모델
+#### 스마트폰 모델
+
 Kia Digital Key 서비스는 안드로이드 폰 사용자에 한하여 이용 가능합니다.  
 이용 가능한 상세 스마트폰 기종은 첨부 파일의 리스트를 참고해 주시기 바랍니다.
 

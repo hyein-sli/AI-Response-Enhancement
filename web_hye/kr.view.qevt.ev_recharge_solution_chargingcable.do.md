@@ -1,6 +1,8 @@
 # https://members.kia.com/kr/view/qevt/ev_recharge_solution_chargingcable.do
 
-## 비상용 완속 충전케이블
+## 기아 e-라이프 패키지
+
+### 비상용 완속 충전케이블
 
 비상용 완속 충전케이블 (220V ICCB 충전케이블) ※ 비상상황황
 공식 온라인몰(Kia Shop)을 통해 기아 순정 액세서리 브랜드 제품을 구매하여 충전 인프라 이용이 어려운 장소에서도 기아 EV를 충전할 수 있습니다.

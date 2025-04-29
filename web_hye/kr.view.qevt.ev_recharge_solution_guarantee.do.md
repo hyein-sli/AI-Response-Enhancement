@@ -1,6 +1,8 @@
 # https://members.kia.com/kr/view/qevt/ev_recharge_solution_guarantee.do
 
-## 중고차 가격 보장 프로그램
+## 기아 e-라이프 패키지
+
+### 중고차 가격 보장 프로그램
 
 기아 EV 구매 후 3년 내 기아 신차 구매 시, 중고 EV 잔존가치를 보장합니다.
 

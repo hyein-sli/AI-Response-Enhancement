@@ -1,6 +1,8 @@
 # https://members.kia.com/kr/view/qdks/info/qdks_app_basic.do
 
-## 기본기능
+## App 사용방법 안내
+
+### 기본기능
 
 도어 락/언락
 차량에 등록된 스마트 폰 키를 차량의 도어 핸들에 터치해주세요.  

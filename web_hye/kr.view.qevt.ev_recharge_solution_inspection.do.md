@@ -1,12 +1,14 @@
 # https://members.kia.com/kr/view/qevt/ev_recharge_solution_inspection.do
 
-## 기아 EV 안심점검
+## 기아 e-라이프 패키지
+
+### 기아 EV 안심점검
 
 무상점검
 
 차량이 최적의 상태를 유지할 수 있도록 10년간 10회의 무상점검을 제공받으실 수 있습니다.
 
-### 서비스 주요 내용
+#### 서비스 주요 내용
 
 대상
 당사 차량 보유 기아멤버스 회원

@@ -1,6 +1,8 @@
 # https://members.kia.com/kr/view/qevt/ev_recharge_solution_consulting.do
 
-## 공동주택 충전기 구축
+## 기아 e-라이프 패키지
+
+### 공동주택 충전기 구축
 
 공동주택(아파트)에 거주하는 기아 EV 고객을 대상으로 공용 스마트제어 충전기 무상 설치를 위한 충전 컨설팅을 제공합니다.
 
