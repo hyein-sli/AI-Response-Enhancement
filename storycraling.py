@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 # 설정
 MD_FOLDER = "./원천 데이터/web_md"
 os.makedirs(MD_FOLDER, exist_ok=True)
-url = "https://www.kia.com/kr/vehicles/kia-ev/guide/faq#localnav"
+url = "https://www.kia.com/kr/customer-service/kia-members/kia-app/introduce"
 
 # 파일명 생성
 def sanitize_filename(url: str) -> str:
