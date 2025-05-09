@@ -13,13 +13,16 @@ MD_FOLDER = "./원천 데이터/web_md"
 os.makedirs(MD_FOLDER, exist_ok=True)
 
 URLS = [
-    "https://www.kia.com/kr/customer-service/kia-members/kia-app/start#localnav",
-    "https://www.kia.com/kr/customer-service/kia-members/kia-app/home#localnav",
-    "https://www.kia.com/kr/customer-service/kia-members/kia-app/map#localnav",
-    "https://www.kia.com/kr/customer-service/kia-members/kia-app/control#localnav",
-    "https://www.kia.com/kr/customer-service/kia-members/kia-app/store#localnav",
-    "https://www.kia.com/kr/customer-service/kia-members/kia-app/mycar#localnav",
-    "https://www.kia.com/kr/customer-service/kia-members/kia-app/mypage#localnav"
+    "https://www.kia.com/kr/customer-service/kia-members/kia-members#",
+    "https://www.kia.com/kr/customer-service/kia-members/kia-shop#localnav",
+    "https://www.kia.com/kr/customer-service/purchase-guide/tax",
+    "https://www.kia.com/kr/customer-service/purchase-guide/registration#localnav",
+    "https://www.kia.com/kr/customer-service/purchase-guide/notices#localnav",
+    "https://www.kia.com/kr/customer-service/purchase-guide/delivery#localnav",
+    "https://www.kia.com/kr/pbv/solution/software#localnav",
+    "https://www.kia.com/kr/pbv/solution/service#localnav",
+    
+
 ]
 
 def sanitize_filename(url: str) -> str:
