@@ -1,6 +1,5 @@
 import os
 import time
-import markdownify
 from urllib.parse import urlparse
 
 from selenium import webdriver
@@ -8,62 +7,45 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
-from openpyxl import load_workbook
 
-# 🔹 엑셀 파일 이름
-excel_path = r"C:\Users\leehyein\Documents\code\kia\AI-Response-Enhancement\hyundea.story.xlsx"
+# 설정
+MD_FOLDER = "./원천 데이터/web_md"
+os.makedirs(MD_FOLDER, exist_ok=True)
+url = "https://www.kia.com/kr/customer-service/kia-members/kia-app/introduce"
 
-# 🔹 저장할 마크다운 파일 경로
-output_md_file = "kia_all_articles.md"
-
-# 🔹 파일명 정리 함수 (본문 안에 참고용으로만 사용)
-def get_url_path_id(url):
+# 파일명 생성
+def sanitize_filename(url: str) -> str:
     parsed = urlparse(url)
-    return parsed.path.lstrip("/").replace("/", " · ")
+    path = parsed.path.strip("/").replace("/", "_")
+    return f"{path}.md"
 
-# 🔹 셀레니움 설정
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
+# 셀레니움 설정
+options = Options()
+options.add_argument("--headless")
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# 🔹 엑셀에서 URL 읽기
-wb = load_workbook(excel_path)
-ws = wb.active
-urls = [cell.value for cell in ws['A'] if cell.value and str(cell.value).startswith("http")]
+driver.get(url)
+time.sleep(3)
 
-# 🔹 결과 저장할 문자열 리스트
-all_markdown = []
+soup = BeautifulSoup(driver.page_source, "html.parser")
 
-for base_url in urls:
-    try:
-        driver.get(base_url)
-        time.sleep(2)
-        html_content = driver.page_source
-        soup = BeautifulSoup(html_content, "html.parser")
+# FAQ 영역 텍스트 수집
+content_parts = []
+faq_blocks = soup.select("div.accordion-item, div.tab-content, div.faq-content, dl.faq")
 
-        # 불필요한 태그 제거
-        for tag in soup.find_all(["header", "footer", "img", "style", "aside", "nav", "from"]):
-            tag.decompose()
+for block in faq_blocks:
+    text = block.get_text(separator="\n", strip=True)
+    if text:
+        content_parts.append(text)
 
-        md_content = markdownify.markdownify(str(soup), heading_style="ATX")
+final_text = "\n\n".join(content_parts)
 
-        markdown_block = f"""url: {base_url}  
-id: {get_url_path_id(base_url)}  
-text:  
-{md_content}
+# 마크다운 저장
+filename = sanitize_filename(url)
+filepath = os.path.join(MD_FOLDER, filename)
 
----
-"""
-        all_markdown.append(markdown_block)
-        print(f"✅ 크롤링 완료: {base_url}")
-
-    except Exception as e:
-        print(f"❌ 실패: {base_url} | 이유: {e}")
+with open(filepath, "w", encoding="utf-8") as f:
+    f.write(f"# {url}\n\n{final_text.strip()}")
 
 driver.quit()
-
-# 🔹 마크다운 파일 하나로 저장
-with open(output_md_file, "w", encoding="utf-8") as f:
-    f.writelines(all_markdown)
-
-print(f"\n📄 전체 결과 저장 완료 → {output_md_file}")
+print(f"✅ 저장 완료: {filepath}")
