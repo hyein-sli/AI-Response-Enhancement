@@ -9,15 +9,18 @@ from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
 # ───────────── 설정 ─────────────
-MD_FOLDER = "./원천 데이터/web_md"
+MD_FOLDER = "./원천 데이터/web_md/0528"
 os.makedirs(MD_FOLDER, exist_ok=True)
-url = {"https://www.kia.com/kr/customer-service/kia-members/kia-app/start#localnav",
-"https://www.kia.com/kr/customer-service/kia-members/kia-app/home#localnav",
-"https://www.kia.com/kr/customer-service/kia-members/kia-app/map#localnav",
-"https://www.kia.com/kr/customer-service/kia-members/kia-app/control#localnav",
-"https://www.kia.com/kr/customer-service/kia-members/kia-app/store#localnav",
-"https://www.kia.com/kr/customer-service/kia-members/kia-app/mycar#localnav",
-"https://www.kia.com/kr/customer-service/kia-members/kia-app/mypage#localnav"
+url = {"https://members.kia.com/kr/view/qmgd/qmgd_partnershipCard01.do",
+"https://members.kia.com/kr/view/qmgd/qmgd_partnershipCard01_ev.do",
+"https://members.kia.com/kr/view/qmgd/qmgd_qmembers_ev.do",
+"https://members.kia.com/kr/view/qmgd/qmgd_qmemberscom.do",
+"https://members.kia.com/kr/view/qmgt/bt_itca/qmgt_bt_itca_bluetooth.do",
+"https://members.kia.com/kr/view/qmgt/navi/qmgt_navi_guide.do",
+"https://members.kia.com/kr/view/qmnb/mbr_card/qmnb_mbr_card_reissue.do",
+"https://members.kia.com/kr/view/qnet/asn_prct/qnet_asn_prct_index.do"
+"https://members.kia.com/kr/view/qnet/dtd_svc/qnet_dtd_svc_smartQsvcList02.do"
+"https://members.kia.com/kr/view/qnet/info/qnet_solution.do"
 
 }
 def sanitize_filename(url: str) -> str:
