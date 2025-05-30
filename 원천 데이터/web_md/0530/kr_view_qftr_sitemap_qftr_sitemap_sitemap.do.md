@@ -1,8 +1,10 @@
-# https://members.kia.com/kr/view/qmgd/qmgd_qmembers_ev.do
+# https://members.kia.com/kr/view/qftr/sitemap/qftr_sitemap_sitemap.do
 
-에러페이지 | 기아멤버스
+사이트맵 | 기아멤버스
 본문 바로가기
 주메뉴 바로가기
+사이트맵
+사이트맵
 멤버스 가이드
 `
 멤버십 소개

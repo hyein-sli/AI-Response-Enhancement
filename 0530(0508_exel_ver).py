@@ -2,6 +2,7 @@ import os
 import time
 from urllib.parse import urlparse
 
+import pandas as pd  # 엑셀 읽기용 추가
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -9,13 +10,13 @@ from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
 # ───────────── 설정 ─────────────
-MD_FOLDER = "./원천 데이터/web_md/0528"
+EXCEL_PATH = "./0530_web.xlsx"  # 엑셀 파일 경로 (A열에 URL 존재)
+MD_FOLDER = "./원천 데이터/web_md/0530"
 os.makedirs(MD_FOLDER, exist_ok=True)
 
-URLS = [
-   "hhttps://members.kia.com/kr/view/qmgd/qmgd_memberCreditCard3.do"
-
-]
+# ───────────── 엑셀에서 URL 읽기 ─────────────
+df = pd.read_excel(EXCEL_PATH)
+URLS = df.iloc[:, 0].dropna().tolist()  # 첫 번째 열(A열)에서 URL만 추출
 
 def sanitize_filename(url: str) -> str:
     parsed = urlparse(url)
