@@ -13,7 +13,7 @@ MD_FOLDER = "./원천 데이터/web_md/0528"
 os.makedirs(MD_FOLDER, exist_ok=True)
 
 URLS = [
-   "hhttps://members.kia.com/kr/view/qmgd/qmgd_memberCreditCard3.do"
+   "https://worldwide.kia.com/kr/sounds-in-nature/our-album"
 
 ]
 
