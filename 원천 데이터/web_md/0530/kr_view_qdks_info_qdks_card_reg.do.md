@@ -1,13 +1,11 @@
 # https://members.kia.com/kr/view/qdks/info/qdks_card_reg.do
 
-NFC 카드키 등록 안내 - Kia Digital Key 소개 | 기아멤버스
-본문 바로가기
-주메뉴 바로가기
-NFC 카드키
-Digital Kia
-Kia Digital Key
-NFC 카드키
-등록 안내
+## KIA MEMBERS (기아멤버스)
+
+### Kia Digital Key - NFC 카드키
+
+#### 등록 안내
+
 선택됨
 사용 방법 안내
 스마트폰 App 등록 인증
